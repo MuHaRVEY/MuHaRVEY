@@ -4,9 +4,6 @@
 
 ![Welcome](https://img.shields.io/badge/Welcome-Welcome%20to%20MuHaRVEY's%20Profile!-blue?style=for-the-badge&logo=github)
 
-<div align="center">
-    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/welcome-image.png?raw=true" alt="Welcome Image" width="300"/>
-</div>
 
 ---
 
