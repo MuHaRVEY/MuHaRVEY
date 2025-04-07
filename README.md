@@ -16,11 +16,11 @@
 ---
 # Awards & Certifications
 
-🏆 Outstanding Poster Award – EKC 2024 Life Science and Health Section
+🏆 Outstanding Poster Award – EKC(Europe-Korea Conference on Science and technology) 2024 Life Science and Health Section
 
-🏆 Silver Award – ICCAS 2024 “Alzheimer’s Prevention Mobile Game App using AI and Self-Reflection”
+🏆 Silver Award – ICCAS(International Collegiate Challenge for AI-Assisted Society) 2024 “Alzheimer’s Prevention Mobile Game App using AI and Self-Reflection”
 
-🏆 Gold Award – CEDC 2024 “Stroke Rehabilitation and Prevention through Hamburger Game”
+🏆 Gold Award – CEDC(Creative Engineering Design Competition) 2024 “Stroke Rehabilitation and Prevention through Hamburger Game”
 
 📝Certificate of Participation - ICCAS 2024 with subject “Medical Serious Game for intelligent Digital Therapeutics”
 
