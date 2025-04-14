@@ -6,6 +6,13 @@
 
 
 ---
+# Who am I- 
+INHATC Computer Science 19 drop out
+CBNU Computer Engineering (2020.03 ~ Currently attending) 
+Exchange student at the University of Wolverhampton (2025.09 ~ )
+Preparing for Graduate School
+
+---
 
  # "Things I've Learned So Far:"
 
