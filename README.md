@@ -6,14 +6,12 @@
 
 
 ---
-# Who am I- 
+# Who am I 
 INHATC Computer Science 19 drop out
 
 Undergraduate Student of CBNU Computer Engineering (2020.03 ~ Currently attending) 
 
 Exchange student at the University of Wolverhampton (expected 2025.09 ~ )
-
-Looking for Graduate School
 
 ---
 
