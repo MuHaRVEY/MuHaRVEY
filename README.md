@@ -37,10 +37,8 @@ Exchange student at the University of Wolverhampton (2025.09 ~ 2026.01)
 📝 Certificate of Completion – K-CAMT 2024 HACKATHON for Net – Zero Carbon and Energy
 
 ---
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuHaRVEY&show_icons=true&theme=radical)
-- 📫 How to reach me: rkddntjr0123@naver.com or kangds0319@gmail.com or rkddntjr0123@chungbuk.ac.kr
+- 📫 How to reach me: rkddntjr0123@naver.com or kangds0319@gmail.com 
 <!--
 **MuHaRVEY/MuHaRVEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
