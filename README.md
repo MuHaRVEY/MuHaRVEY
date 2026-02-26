@@ -7,11 +7,13 @@
 
 ---
 # Who am I 
-INHATC Computer Science 19 drop out
+Former INHATC Computer Science student (2019)
 
-Undergraduate Student of CBNU Computer Engineering (2020.03 ~ Currently attending) 
+B.S. in Computer Engineering, Chungbuk National University (2020.03 – 2026.02)
 
-Exchange student at the University of Wolverhampton (2025.09 ~ 2026.01)
+Exchange Student at the University of Wolverhampton (2025.09 – 2026.01)
+
+Interested in AI-driven healthcare, brain engineering, and computational modeling.
 
 ---
 
