@@ -16,14 +16,6 @@ Exchange Student at the University of Wolverhampton (2025.09 – 2026.01)
 Interested in AI-driven healthcare, brain engineering, and computational modeling.
 
 ---
-
- # "Things I've Learned So Far:"
-
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkddntjr0123)](https://solved.ac/rkddntjr0123/) -->
----
 # Awards & Certifications
 
 🏆 Outstanding Poster Award – EKC(Europe-Korea Conference on Science and technology) 2024 Life Science and Health Section, “Alzheimer’s Prevention Mobile Game App using AI and Self-Reflection”
