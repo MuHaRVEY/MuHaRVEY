@@ -1,10 +1,4 @@
 # 🌟 Welcome To **Useok's Profile!** 🌟
-
----
-
-![Welcome](https://img.shields.io/badge/Welcome-Welcome%20to%20MuHaRVEY's%20Profile!-blue?style=for-the-badge&logo=github)
-
-
 ---
 # Who am I 
 Former INHATC Computer Science student (2019)
