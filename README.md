@@ -9,6 +9,7 @@ Exchange Student at the University of Wolverhampton (2025.09 – 2026.01)
 
 Interested in AI-driven healthcare, brain engineering, and computational modeling.
 
+> **🌐 my Info:** [Click here](http://muharvey.github.io/)
 ---
 # Awards & Certifications
 
