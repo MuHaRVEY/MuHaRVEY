@@ -8,7 +8,7 @@ I hold a **B.S. in Computer Engineering** from **Chungbuk National University**
 and studied as an **Exchange Student** at the **University of Wolverhampton**.
 
 I am interested in building meaningful technology in  
-**AI in healthcare**, **brain engineering**, **machine/deep learning** and **computational modeling**.
+**AI in healthcare**, **machine/deep learning**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](http://muharvey.github.io/)
 [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-rkddntjr0123%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:rkddntjr0123@naver.com)
@@ -20,7 +20,6 @@ I am interested in building meaningful technology in
 
 ## About Me
 
-- Former **INHATC Computer Science** student (2019)
 - **B.S. in Computer Engineering**, Chungbuk National University (2026.02)
 - **Exchange Student**, University of Wolverhampton (2025.09 – 2026.01)
 - Interested in **AI in healthcare**, **brain engineering**, **machine/deep learning** and **computational modeling**
@@ -62,48 +61,6 @@ I am interested in building meaningful technology in
 
 - 📝 **Certificate of Completion** — **K-CAMT 2024 Hackathon for Net-Zero Carbon and Energy**
 
----
-
-## Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</p>
-
-### Development & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuHaRVEY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuHaRVEY&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## One Last Sentence
 
