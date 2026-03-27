@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Useok%20Kang&fontSize=46&fontAlignY=38&desc=AI-driven%20Healthcare%20%7C%20Brain%20Engineering%20%7C%20Generative%20Modeling&descAlignY=56&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Useok%20Kang&fontSize=46&fontAlignY=38&desc=World%20Model%20%7C%20Brain%20Engineering%20%7C%20Generative%20Modeling&descAlignY=56&animation=fadeIn)
 
 ### Welcome to my GitHub profile
 
@@ -8,7 +8,7 @@ I hold a **B.S. in Computer Engineering** from **Chungbuk National University**
 and studied as an **Exchange Student** at the **University of Wolverhampton**.
 
 I am interested in building meaningful technology in  
-**AI in healthcare**, **machine/deep learning**, and**Generative Model**.
+**World model**, **AI in healthcare/brain engineering**, and**Generative Model**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](http://muharvey.github.io/)
 [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-rkddntjr0123%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:rkddntjr0123@naver.com)
@@ -22,7 +22,6 @@ I am interested in building meaningful technology in
 
 - **B.S. in Computer Engineering**, Chungbuk National University (2026.02)
 - **Exchange Student**, University of Wolverhampton (2025.09 – 2026.01)
-- Interested in **AI in healthcare**, **brain engineering**, **machine/deep learning** and **computational modeling**
 - Passionate about developing technology that can create **real-world impact**
 
 ---
