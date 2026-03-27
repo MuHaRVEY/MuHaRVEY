@@ -32,10 +32,8 @@ I am interested in building meaningful technology in
 <p>
   <img src="https://img.shields.io/badge/AI%20in%20Healthcare-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Brain%20Engineering-6A5ACD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Computational%20Modeling-1E90FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Digital%20Therapeutics-20B2AA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Serious%20Games-FF8C00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Rehabilitation%20Technology-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/World%20Model-1E90FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Generative%20Model-20B2AA?style=flat-square"/>
 </p>
 
 ---
