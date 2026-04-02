@@ -4,7 +4,7 @@ I hold a **B.S. in Computer Engineering** from **Chungbuk National University**
 and studied as an **Exchange Student** at the **University of Wolverhampton**.
 
 I am interested in building meaningful technology in  
-**World model**, **AI in healthcare/brain engineering**.
+**Generative model**, **AI in healthcare/brain engineering**.
 
 </div>
 
